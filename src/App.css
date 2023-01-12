@@ -1,0 +1,97 @@
+.container {
+  margin: auto;
+  padding: auto;
+  width: 400px;
+  border: 3px solid green;
+  border-radius: 9px;
+  /* padding: 10px; */
+  text-align: center;
+  margin-top: 100px;
+  /* position: absolute; */
+  padding-bottom: 10px;
+  box-shadow: 5px 5px;
+  background-color: rgb(204, 203, 202);
+}
+
+input{
+  padding-left: 5px;
+  border-radius: 3px;
+  font-size: medium;
+  margin-top: 3px;
+
+}
+label{
+  font-size: medium;
+}
+
+button{
+  margin-left: 10px;
+  border-radius: 3px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+@media only screen and (max-width:400px ) {
+  
+  .container {
+  margin: auto;
+  padding: auto;
+  width: 200px;
+  height: 250px;
+  border: 3px solid green;
+  border-radius: 9px;
+  /* padding: 10px; */
+  text-align: center;
+  margin-top: 100px;
+  /* position: absolute; */
+  padding-bottom: 10px;
+  box-shadow: 5px 5px;
+  background-color: rgb(100, 65, 30);
+}
+
+input{
+  width: 150px;
+  overflow: hidden;
+  text-align: center;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-radius: 5px;
+}
+
+button{
+  margin-top: 4px;
+  border-radius: 5px;
+  margin-bottom: 4px;
+}
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+}
+
+
